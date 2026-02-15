@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration (SDK path, etc)
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+*.hprof
+
+# Logs
+*.log
+
+# Capturas de tela do emulador
+*.png
+*.jpg
+
+# Dependências baixadas
+/.cxx/
