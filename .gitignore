@@ -1,22 +1,19 @@
+# Build files
+/build
+/app/build
+
 # Gradle
-.gradle/
-build/
-*/build/
+/.gradle
+/gradle/wrapper/gradle-wrapper.jar
 
-# Local configuration (SDK path, etc)
-local.properties
-
-# Android Studio
+# IDE files
+/.idea
 *.iml
-.idea/
 *.hprof
 
-# Logs
-*.log
+# Local settings
+/local.properties
 
-# Capturas de tela do emulador
-*.png
-*.jpg
-
-# Dependências baixadas
-/.cxx/
+# Mac/Windows files
+.DS_Store
+Thumbs.db
